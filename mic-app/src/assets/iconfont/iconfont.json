@@ -1,0 +1,163 @@
+{
+  "id": "2195284",
+  "name": "j 健保助手",
+  "font_family": "font_family",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20820325",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "20820326",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "20820327",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "14362292",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "9178547",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "20624084",
+      "name": "工作单位-icon-基本信息",
+      "font_class": "gongzuodanwei-jibenxinxi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "20624085",
+      "name": "从事职业-icon-基本信息",
+      "font_class": "congshizhiye-jibenxinxi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "20624086",
+      "name": "毕业院校-icon-基本信息",
+      "font_class": "biyeyuanxiao-jibenxinxi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "20624087",
+      "name": "工作年限-icon-基本信息",
+      "font_class": "gongzuonianxian-jibenxinxi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "20624088",
+      "name": "毕业时间-icon-基本信息",
+      "font_class": "biyeshijian-jibenxinxi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "20624090",
+      "name": "姓名-icon-基本信息",
+      "font_class": "xingming",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "20624091",
+      "name": "证件类型-icon-基本信息",
+      "font_class": "zhengjianleixing-jibenxinxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "20624092",
+      "name": "文化程度-icon-基本信息",
+      "font_class": "wenhuachengdu-jibenxinxi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "20624093",
+      "name": "基本资料-icon-基本信息",
+      "font_class": "jibenziliao-jibenxinxi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "20624094",
+      "name": "出生日期-icon-基本信息",
+      "font_class": "chushengriqi-jibenxinxi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "20624095",
+      "name": "性别-icon-基本信息",
+      "font_class": "xingbie-jibenxinxi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "20624096",
+      "name": "选修课-icon-基本信息",
+      "font_class": "xuanxiuke-jibenxinxi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "20128897",
+      "name": "生日-icon",
+      "font_class": "shengri",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "20128898",
+      "name": "所属人群-icon",
+      "font_class": "suoshurenqun",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "20128899",
+      "name": "性别-icon",
+      "font_class": "xingbie",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18149968",
+      "name": "手机号-icon",
+      "font_class": "shoujihao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18149969",
+      "name": "验证码-icon",
+      "font_class": "yanzhengma-icon",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
